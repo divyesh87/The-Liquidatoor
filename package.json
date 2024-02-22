@@ -1,0 +1,21 @@
+{
+  "name": "the-liquidatoor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "dev" : "ts-node src/index.ts"
+  },
+  "keywords": [
+    "Solana",
+    "Liquidation bot",
+    "Solend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "10.9.2",
+    "typescript": "5.3.3"
+  }
+}
