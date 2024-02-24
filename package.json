@@ -21,6 +21,10 @@
     "typescript": "5.3.3"
   },
   "dependencies": {
-    "@solana/web3.js": "1.90.0"
+    "@solana/web3.js": "1.90.0",
+    "@solendprotocol/solend-sdk": "^0.8.7",
+    "axios": "^1.6.7",
+    "bigint-buffer": "^1.1.5",
+    "chalk": "^3.0.0"
   }
 }
